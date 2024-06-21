@@ -7,7 +7,7 @@ Data analyst
 * 🌍  I'm based in Saint-P
 * 💻  I work as a Middle Data Analyst
 * 🧠  learning DS & ML
-* ✉️  You can contact me at [artem\_analyze@mail.ru](mailto:artem_analyze@mail.ru)   
+* ✉️  You can contact me at [artem\_analyze@mail.ru](mailto:artem_analyze@mail.ru)  
 
 <a href="https://www.github.com/Julrins" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Julrins?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
