@@ -5,7 +5,7 @@ Data analyst
 ------------
 
 * 🌍  I'm based in Saint-P
-* 💻  I work as a Middle Data Analyst
+* 💻  I work as a BI/ Data Analyst
 * 🧠  learning DS & ML
 * ✉️  You can contact me at [artem\_analyze@mail.ru](mailto:artem_analyze@mail.ru) 
 
